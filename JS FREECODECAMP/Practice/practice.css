@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+}
+button {
+	background-color: coral;
+	color: white;
+	padding: 3px;
+	border: none;
+	font-weight: bold;
+	font-size: 20px;
+}
+p {
+	color: coral;
+}
